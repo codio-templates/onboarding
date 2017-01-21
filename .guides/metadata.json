@@ -1,0 +1,64 @@
+{
+ "sections": [
+  {
+   "id": "79f60b44-3979-3a67-2bb7-1f12907551e9",
+   "title": "Onboarding Guide",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Onboarding-Guide-79f6.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "520802d7-9460-b950-e59e-d04a36c34ef1",
+   "title": "Account Information",
+   "files": [],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Account-Information-5208.md",
+   "chapter": true,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "4a523b49-5c1e-0b0c-168c-653cfb1f1757",
+   "title": "Test Students",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Test-Students-4a52.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "e11e7c67-93ab-bc99-05a9-cfb4c3d2f7f4",
+   "title": "Inviting faculty / teachers",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Inviting-faculty---teachers-e11e.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "f1c7fdea-a602-5410-7167-a91fbed8ac03",
+   "title": "Projects",
+   "files": [],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Projects-f1c7.md",
+   "chapter": true,
+   "reset": [],
+   "teacherOnly": false
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": ""
+}
