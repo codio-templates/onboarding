@@ -230,7 +230,7 @@
   },
   {
    "id": "e7c2d8ad-0939-d839-f4de-5c2660d6b049",
-   "title": "Codio Guides - Basics",
+   "title": "Codio Guides",
    "files": [
     {
      "path": "#tabs",
@@ -240,18 +240,46 @@
    "layout": "",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Codio-Guides---Basics-e7c2.md",
+   "content-file": ".guides/content/Codio-Guides-e7c2.md",
    "chapter": true,
    "reset": [],
    "teacherOnly": false
   },
   {
+   "id": "1acc6e4f-206c-0fd9-f6c3-256fcc31cea8",
+   "title": "Basics",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Basics-1acc.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
    "id": "6d5491c6-596d-0ccc-516a-33ae021c4e67",
-   "title": "Guides - Assessments",
+   "title": "Assessments",
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Guides---Assessments-6d54.md",
+   "content-file": ".guides/content/Assessments-6d54.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "c87636d4-0033-652f-a559-c912410680f6",
+   "title": "README.md alternative",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/README-md-alternative-c876.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
@@ -307,23 +335,56 @@
    "teacherOnly": false
   },
   {
-   "id": "c87636d4-0033-652f-a559-c912410680f6",
-   "title": "New Section 26",
+   "id": "d15dcb0a-f3cf-c534-651f-aaa37f2c8a9a",
+   "title": "Marking Unit as completed",
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/New-Section-26-c876.md",
+   "content-file": ".guides/content/Marking-Unit-as-completed-d15d.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
   },
   {
-   "id": "1acc6e4f-206c-0fd9-f6c3-256fcc31cea8",
-   "title": "New Section 27",
+   "id": "70a4d9ec-3573-ff16-faf9-26e17e3dc99e",
+   "title": "Unit dashboard",
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/New-Section-27-1acc.md",
+   "content-file": ".guides/content/Unit-dashboard-70a4.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "e343d184-9b0b-6d00-3dc3-ee386c62b3c1",
+   "title": "Leaving messages",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Leaving-messages-e343.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "1d379f01-f271-1f48-8364-946b6de9f339",
+   "title": "Manual Grading",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Manual-Grading-1d37.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "d990966c-ff9d-ce40-4380-920df3cc8b88",
+   "title": "Releasing Grades",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Releasing-Grades-d990.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false

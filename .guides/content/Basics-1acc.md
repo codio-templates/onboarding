@@ -1,5 +1,3 @@
-If you want to learn about auto-graded assessment setup then you should read this section.  
-
 To get full details about Guides, please [refer to the documentation](https://codio.com/docs/content/authoring/).
 
 We won't go deep into content authoring using Guides, but we will do just enough to allow you to create some simple assessments. These will be useful when we assign the project to the class.
@@ -47,4 +45,3 @@ Teacher only content from her here until
 ...
 |||
 ```
-
