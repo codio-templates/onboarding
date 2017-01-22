@@ -56,6 +56,116 @@
    "chapter": true,
    "reset": [],
    "teacherOnly": false
+  },
+  {
+   "id": "8ba13951-cbb0-b2e4-aa3c-09bef0fe5e93",
+   "title": "Creating a new project",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Creating-a-new-project-8ba1.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "67a409d4-2bcd-3f9b-1c29-99ad68683eeb",
+   "title": "File creation",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "#terminal: python3 test.py",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/File-creation-67a4.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "53416842-eb45-91ec-87c9-fa01f6a3843c",
+   "title": "Custom menu items",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Custom-menu-items-5341.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "460a1e59-c62d-90cc-9b2a-632422eebb07",
+   "title": "The terminal window",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/The-terminal-window-460a.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "7baaf6b1-2b71-bcd3-1620-ec8ab45d98a7",
+   "title": "Leaving a project",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Leaving-a-project-7baa.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "93f3ae1e-b73d-9518-5673-4676a55a5599",
+   "title": "Settings and preferences",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Settings-and-preferences-93f3.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "97bf3987-dc0e-de02-e883-056916d94d33",
+   "title": "New Section 12",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/New-Section-12-97bf.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "f93c09cd-015e-8f39-28a8-009d13fee18f",
+   "title": "New Section 13",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/New-Section-13-f93c.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "b365d838-7e9b-d02f-89e2-0cbf9a8bc9b6",
+   "title": "New Section 14",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/New-Section-14-b365.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
   }
  ],
  "theme": "light",
