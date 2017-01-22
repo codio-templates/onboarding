@@ -2,6 +2,8 @@ Manual Unit grades are withheld from students until the teacher wishes to releas
 
 If you are using an LMS, all grades inclding auto-graded results are not posted back to the LMS grade book until grades are explicitly released.
 
+![](.guides/img/release-grades.png)
+
 To release grades, follow these steps ...
 
 - Select the Unit within the class

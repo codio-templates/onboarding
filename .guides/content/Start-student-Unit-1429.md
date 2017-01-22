@@ -1,6 +1,11 @@
-In your student account, look for the Unit we just assigned in the previous step and click the Ready to Go button. This will fire up the student project.
+In one of your student accounts, look for the Unit we just assigned in the previous step. If you pinned the Unit then the student will see it with a star in the top area. If you did not, then you can also find it in the bottom listing (make sure the correct class is selected in the leftmost dropdown).
 
-If that you created a Guide in your project, you will now see the Guide auto-started. Make the following changes to the student assignment.
+![](.guides/img/student-ready.png)
+
+You can now fire up the Unit by pressing 'Ready to Go' in either.
+
+### Change a few things
+If you created a Guide in your project, the Guide will have started. Make the following changes to the student assignment.
 
 - Open up the `index.html` file and make a few changes.
 - Do the same for `test.py`.

@@ -2,6 +2,8 @@ On the previous page, we required the user to manually open a terminal window to
 
 If you look in the menu bar you will find two menu items with icons (a rocket and a play button). You can create your own items for each of these. 
 
+![](.guides/img/custom-menus.png)
+
 If nothing is configured, you will see 'configure...'. Press this and the `.codio` file will be opened. This is a JSON format file, so you need to make sure it is valid JSON as you modify it.
 
 We configure some example items here just to get you going. Let's modify them now.

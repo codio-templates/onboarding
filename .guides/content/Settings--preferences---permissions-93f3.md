@@ -3,6 +3,8 @@ There are a variety of settings that you can make to control your the IDE behavi
 ## Project settings
 The project settings can be found in the Project->Settings menu. [Click here for full documentation](https://codio.com/docs/ide/customization/project-settings/).
 
+![](.guides/img/project-settings.png)
+
 There are some settings that are worth calling out at this point.
 
 ### Private / public
@@ -19,8 +21,12 @@ You can allow specific Codio users to access your projects, even if the project 
 - **Write** : workspace files can be modified, no command line access
 - **Admin** : workspace files can be modified, full command line access
 
+![](.guides/img/project-permissions.png)
+
 ## Preferences
 Preferences refer to general IDE settings. There are a very large number of settings available and these are best viewed by accessing the settings themselves. [Additional documentation is available here](https://codio.com/docs/ide/customization/codio-prefs/).
+
+![](.guides/img/preferences.png)
 
 There are two sets of identical preferences you can set. They are accessed form the Codio->Preferences menu.
 

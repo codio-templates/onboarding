@@ -5,6 +5,8 @@ Any Unit can be manually graded by any of the faculty (anyone added to the Teach
 
 Note that students will not see their grade yet. Please refer to the 'Releasing grades' page for more details on this.
 
+If you are using auto-graded assessment in the Unit, when the Unit is marked as completed by the student, it will automatically calculate a final grade with a percentage value assigned. You can still grade this manually, in which case you will overwrite any auto-assigned grade.
+
 ## Grading Rubric
 A grading rubric is a grid that explains to the person grading exactly how to grade the assignment. Grading rubrics are beyond the scope of this Onboarding Guide but you can [find details in our documentation](https://codio.com/docs/teacher/assess/rubric/).
 

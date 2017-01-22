@@ -12,3 +12,4 @@ We provide a few commonly used installations within this screen. These are one-c
 
 For more advanced usage you should familiarize yourself with Codio's **Stacks** templating feature.
 
+![](.guides/img/install-software.png)

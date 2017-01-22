@@ -9,11 +9,14 @@ Make sure your class is selected and the Units tab is selected within it. Then .
   - their auto-graded scoring
   - whether the student has completed the unit (the left columm shows this but the student has probably not set this yet)
   
+![](.guides/img/unit-teacher.png)
   
 ### Accessing student code
 To access an individual student's Unit, locate the icon with the 3 blue dots on to the right side of the student line. Press it then select 'Open the project'.
 
 You will be immediately taken to the student's Unit. Check the code changes the student has made.
+
+![](.guides/img/access-code.png)
 
 As a faculty member, you have full permissions on the student's box including terminal access.
 

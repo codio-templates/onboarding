@@ -1,9 +1,14 @@
 It is useful for faculty to know whether a Unit has been completed by a student. This is then shown in the Unit dashboard.
 
-There are two ways to mark a Unit as completed
+![](.guides/img/unit-completed-teacher.png)
+
+There are two ways for a student to mark a Unit as completed
 
 - In the student dashboard, locate the Unit within the main listing and enabled the 'Mark as completed' switch or 
 - within the project itself, select the 'Education->Mark as completed' menu item. 
+
+![](.guides/img/unit-completed.png)
+
 
 You should note that once a Unit has been marked as completed by the student ...
 

@@ -3,11 +3,17 @@
   {
    "id": "79f60b44-3979-3a67-2bb7-1f12907551e9",
    "title": "Onboarding Guide",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Onboarding-Guide-79f6.md",
-   "chapter": false,
+   "chapter": true,
    "reset": [],
    "teacherOnly": false
   },
@@ -36,11 +42,11 @@
   },
   {
    "id": "e11e7c67-93ab-bc99-05a9-cfb4c3d2f7f4",
-   "title": "Inviting faculty / teachers",
+   "title": "Inviting faculty/teachers",
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Inviting-faculty---teachers-e11e.md",
+   "content-file": ".guides/content/Inviting-faculty-teachers-e11e.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
@@ -125,7 +131,7 @@
   },
   {
    "id": "474b2c83-f3b2-7732-c9e3-1905360e8f2a",
-   "title": "Projects - good to know",
+   "title": "Projects - Reference features",
    "files": [
     {
      "path": "#tabs",
@@ -135,7 +141,7 @@
    "layout": "",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Projects---good-to-know-474b.md",
+   "content-file": ".guides/content/Projects---Reference-features-474b.md",
    "chapter": true,
    "reset": [],
    "teacherOnly": false
@@ -219,11 +225,11 @@
   },
   {
    "id": "f2accace-0822-aa89-c0b2-179777b350fb",
-   "title": "Code debugger",
+   "title": "Visual debugger",
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Code-debugger-f2ac.md",
+   "content-file": ".guides/content/Visual-debugger-f2ac.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
@@ -385,6 +391,17 @@
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Releasing-Grades-d990.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "1ccc8afa-5671-87a9-fa23-c461ecf9de4f",
+   "title": "Updates to this Guide",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Updates-to-this-Guide-1ccc.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
