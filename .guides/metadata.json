@@ -230,7 +230,7 @@
   },
   {
    "id": "e7c2d8ad-0939-d839-f4de-5c2660d6b049",
-   "title": "Assessments",
+   "title": "Codio Guides - Basics",
    "files": [
     {
      "path": "#tabs",
@@ -240,18 +240,18 @@
    "layout": "",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Assessments-e7c2.md",
+   "content-file": ".guides/content/Codio-Guides---Basics-e7c2.md",
    "chapter": true,
    "reset": [],
    "teacherOnly": false
   },
   {
    "id": "6d5491c6-596d-0ccc-516a-33ae021c4e67",
-   "title": "New Section 23",
+   "title": "Guides - Assessments",
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/New-Section-23-6d54.md",
+   "content-file": ".guides/content/Guides---Assessments-6d54.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
@@ -275,22 +275,55 @@
   },
   {
    "id": "845fa919-6342-ae70-0c9c-f285db97a360",
-   "title": "New Section 22",
+   "title": "Class configuration",
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/New-Section-22-845f.md",
+   "content-file": ".guides/content/Class-configuration-845f.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
   },
   {
    "id": "1e61d266-8c7e-785c-47a6-30204b2453c8",
-   "title": "New Section 24",
+   "title": "Assigning a Unit",
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/New-Section-24-1e61.md",
+   "content-file": ".guides/content/Assigning-a-Unit-1e61.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "14296af3-8b6d-3cf7-aff0-50d745bad210",
+   "title": "Start student Unit",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Start-student-Unit-1429.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "c87636d4-0033-652f-a559-c912410680f6",
+   "title": "New Section 26",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/New-Section-26-c876.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "1acc6e4f-206c-0fd9-f6c3-256fcc31cea8",
+   "title": "New Section 27",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/New-Section-27-1acc.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
