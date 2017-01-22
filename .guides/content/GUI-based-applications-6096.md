@@ -10,20 +10,4 @@ If your are writing your own applications then you can use the normal frameworks
 
 ![](.guides/img/virtual-desktop.png)
 
-## Example
-Codio has an elegant solution for this. We offer a virtual desktop that renders in a browser window. Let's try a desktop application out now by 
-
-1. Starting an application
-1. Opening the virtual desktop
-
-### Launch the application
-In the menu in the menu bar select 'SQLite Browser'. If you do not see it immediately, select it from the drop down. This is a simple SQLite database viewer.
-
-### Open the virtual desktop
-The virtual desktop is launched from the preview menu to the right hand side of the menus. Click on 'Virtual Desktop' and then desktop will open. Some browsers have issue with keyboard input so we recommend expanding the desktop into its own browser tab. This can be done either a) by pulling down the same menu and checking 'New browser tab' or by pressing the arrow icon if the desktop is already displayed within a Codio preview window.
-
-You can close the virtual desktop and re-open it at any time and it will display any running applications automatically.
-
-### Installing the X Server
-Virtual desktop support is not installed on a box by default. To do so, you should do it from the Tools->Install Software menu.
 

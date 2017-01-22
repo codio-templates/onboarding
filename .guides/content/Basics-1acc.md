@@ -5,7 +5,7 @@ We won't go deep into content authoring using Guides, but we will do just enough
 ## Guides
 Both tutorial content and auto-graded assessments need to be authored using Guides.
 
-[TODO Watch this short video]() for an overview first.
+[Watch this short video](https://vimeo.com/200593228) for an overview first.
 
 Now open up the Guides editor from the Tools->Guides->Edit menu.
 

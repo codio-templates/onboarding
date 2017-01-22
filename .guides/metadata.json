@@ -9,7 +9,7 @@
      "action": "close"
     }
    ],
-   "layout": "",
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Onboarding-Guide-79f6.md",
@@ -81,14 +81,9 @@
     {
      "path": "#tabs",
      "action": "close"
-    },
-    {
-     "path": "#terminal: python3 test.py",
-     "panel": 0,
-     "action": "open"
     }
    ],
-   "layout": "2-panels",
+   "layout": "",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/File-creation-67a4.md",
@@ -236,7 +231,7 @@
   },
   {
    "id": "e7c2d8ad-0939-d839-f4de-5c2660d6b049",
-   "title": "Codio Guides",
+   "title": "Assessments and Guides",
    "files": [
     {
      "path": "#tabs",
@@ -246,7 +241,7 @@
    "layout": "",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Codio-Guides-e7c2.md",
+   "content-file": ".guides/content/Assessments-and-Guides-e7c2.md",
    "chapter": true,
    "reset": [],
    "teacherOnly": false

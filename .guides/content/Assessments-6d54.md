@@ -1,8 +1,8 @@
 ## Demo project
-The Demo Guides and Assessments project in My Projects contains a section on the full range of text formatting capabilities within guides as well as more advanced assessment examples. It is not necessary to look at this now but you may want to later.
+The **Demo Guides and Assessments** project in My Projects shows how to create standard and advanced assessment examples. It is not necessary to look at this now but you may want to later.
 
 ## Video
-Please [TODO watch this video]() first.
+Please [watch this video](https://vimeo.com/200593173) first.
 
 ## Documentation
 [Click here](https://codio.com/docs/content/authoring/assessments/) to read the assessments documentation.

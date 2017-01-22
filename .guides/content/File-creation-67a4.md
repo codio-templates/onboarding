@@ -34,7 +34,7 @@ Hello world
 You can preview any html file by right-clicking the file in the tree or the code panel tab and selecting 'Preview static'. A new tab will open up and render the file. You can see the box's auto-generated domain name in the url.
 
 ### Running the python
-The python file can be executed from the command line by opening a terminal window. This is accessed from the Tools->Terminal window. You can see that we've opened a terminal window for you here just to show you what it looks like. You will do this in your own project.
+The python file can be executed from the command line by opening a terminal window. This is accessed from the Tools->Terminal window. 
 
 ![](.guides/img/terminal-python.png)
 
