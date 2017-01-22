@@ -1,17 +1,14 @@
 {
-// Configure your Run and Preview buttons here.
-
-// Run button configuration
-  "commands": {
+    "commands": {
         "Commit": ".guides/gitprep.sh",
-        "Push": "git push"
-  },
-
-// Preview button configuration
-  "preview": {
+        "Push": "git push",
+        "Sqlite Browser": "sqlitebrowser"
+    },
+    "preview": {
+        "Virtual Desktop": "https://{{domain3000}}/",
         "Project Index (static)": "https://{{domain}}/{{index}}",
         "Current File (static)": "https://{{domain}}/{{filepath}}",
         "Box URL": "http://{{domain3000}}/",
         "Box URL SSL": "https://{{domain3000}}/"
-  }
+    }
 }

@@ -124,6 +124,23 @@
    "teacherOnly": false
   },
   {
+   "id": "474b2c83-f3b2-7732-c9e3-1905360e8f2a",
+   "title": "Projects - good to know",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Projects---good-to-know-474b.md",
+   "chapter": true,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
    "id": "93f3ae1e-b73d-9518-5673-4676a55a5599",
    "title": "Settings, preferences & permissions",
    "files": [],
@@ -163,6 +180,117 @@
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Restarting-the-box-b365.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "516487b9-e3e5-2c4a-76cd-cdbf070cfc38",
+   "title": "Multiple panels",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Multiple-panels-5164.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "34e18b20-400a-4227-2945-9c74bebc4e45",
+   "title": "Installing software components",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Installing-software-components-34e1.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "6096cf5e-96ea-6ad4-d06b-4f5f1fa4acec",
+   "title": "GUI based applications",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/GUI-based-applications-6096.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "f2accace-0822-aa89-c0b2-179777b350fb",
+   "title": "Code debugger",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Code-debugger-f2ac.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "e7c2d8ad-0939-d839-f4de-5c2660d6b049",
+   "title": "Assessments",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Assessments-e7c2.md",
+   "chapter": true,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "6d5491c6-596d-0ccc-516a-33ae021c4e67",
+   "title": "New Section 23",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/New-Section-23-6d54.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "ea5d06c4-0283-1b21-3c8f-4b88db21e134",
+   "title": "Class Management",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Class-Management-ea5d.md",
+   "chapter": true,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "845fa919-6342-ae70-0c9c-f285db97a360",
+   "title": "New Section 22",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/New-Section-22-845f.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "1e61d266-8c7e-785c-47a6-30204b2453c8",
+   "title": "New Section 24",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/New-Section-24-1e61.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
