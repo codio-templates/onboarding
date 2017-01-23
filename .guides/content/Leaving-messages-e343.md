@@ -6,6 +6,6 @@ The following steps show a way of doing this although you can vary it as you lik
 - Switch to edit mode by pressing the pencil icon within this window.
 - Leave some comments. You can use normal markdown formatting as with Guides content editing if you like.
 
-The student can enter a dialog by modifying this file, too. This messaging apprach has it drawbacks (the student can change what the faculty say for example) but it is very effective for most purposes.
+The student can enter a dialog by modifying this file, too. This messaging approach has it drawbacks (the student can change what the faculty say for example) but it is very effective for most purposes.
 
 Play around with changes and messages made by faculty and students.

@@ -3,7 +3,7 @@ Any Unit can be manually graded by any of the faculty (anyone added to the Teach
 - The most effective way is to open the student code from the dashboard, review the work and then select the Education->Grading menu item.
 - From the student dashboard, with the Unit selected, press the Grading icon.
 
-Note that students will not see their grade yet. Please refer to the 'Releasing grades' page for more details on this.
+Note that students will not see their grade yet. Please refer to the 'Releasing grades' page following this page for more details on this.
 
 If you are using auto-graded assessment in the Unit, when the Unit is marked as completed by the student, it will automatically calculate a final grade with a percentage value assigned. You can still grade this manually, in which case you will overwrite any auto-assigned grade.
 

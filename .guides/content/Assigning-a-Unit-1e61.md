@@ -30,7 +30,7 @@ If you have just assigned the new Unit then you will see your new project as the
 Now return to the student and reload the page. You will see the unit pinned in the top bar.
 
 ### Assigning a Course Module
-Courses is a great way to assign multiple Units to a class in one go. For this to be relevant you first need to have your content organized as a course. 
+Courses are a great way to assign multiple Units to a class in one go. For this to be relevant you first need to have your content organized as a course. 
 
 We will not attempt to cover course creation here but just show you how to assign existing course materials to the class. Please look for the 'Course creation' page within this Guide for more details.
 

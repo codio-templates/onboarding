@@ -7,7 +7,7 @@ Each project created gets an auto-generated, friendly domain name such as `http:
 Each box comes with a full range of TCP/IP ports that you can use for any purpose. The Box Info page gives good examples on how to make use of ports. In most cases, you will treat a port like you would in any other setup. 
 
 ### Firewall issues
-Firewall can make life hard, so we have included some tricks that help access codio ports without being caught out by your firewall.
+Firewalls can make life hard, so we have included some tricks that help access codio ports without being caught out by your firewall.
 
 For example `http://anita-trapeze-3000.codio.io` would allow you to access something running on port 3000 by including it in the domain name itself. The communication from you to Codio happens over port 80 but we re-route it internally.
 

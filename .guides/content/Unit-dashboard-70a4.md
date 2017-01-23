@@ -1,4 +1,4 @@
-Now that the student have made some changes we can monitor student progress from the Unit dashboard.
+Now that the students have made some changes we can monitor student progress from the Unit dashboard.
 
 Make sure your class is selected and the Units tab is selected within it. Then ...
 

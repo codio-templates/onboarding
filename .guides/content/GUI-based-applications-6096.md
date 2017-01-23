@@ -4,7 +4,7 @@ Desktop applications operate by rendering output to a screen desktop. Codio boxe
 
 Applications can either be a 3rd party application you install in whatever way is appropriate or they can be code you are developing on the box.
 
-If your are writing your own applications then you can use the normal frameworks that you would if developing on your normal desktop. Tkinter, Qt, Swing, JavaFX and other frameworks will all work fine. Please be aware that you will need to install these frameworks on your box yourself from the command line. 
+If you are writing your own applications then you can use the normal frameworks that you would if developing on your normal desktop. Tkinter, Qt, Swing, JavaFX and other frameworks will all work fine. Please be aware that you will need to install these frameworks on your box yourself from the command line. 
 
 ### Documentation and Demo project
 [Full documentation can be found here](https://codio.com/docs/ide/boxes/installsw/gui/). 
