@@ -10,3 +10,6 @@ To access your personal account details as well as your organization details, cl
 In the above screenshot you can see your organization listed at the bottom. Click on it to access organization settings.
 
 ![](.guides/img/account-organization.png)
+
+### Test student accounts
+Later in this Guide we explain how to work with test students during the onboarding/learning phase.

@@ -30,17 +30,6 @@
    "teacherOnly": false
   },
   {
-   "id": "4a523b49-5c1e-0b0c-168c-653cfb1f1757",
-   "title": "Test Students",
-   "files": [],
-   "path": [],
-   "type": "markdown",
-   "content-file": ".guides/content/Test-Students-4a52.md",
-   "chapter": false,
-   "reset": [],
-   "teacherOnly": false
-  },
-  {
    "id": "e11e7c67-93ab-bc99-05a9-cfb4c3d2f7f4",
    "title": "Inviting faculty/teachers",
    "files": [],
@@ -306,9 +295,32 @@
    "id": "845fa919-6342-ae70-0c9c-f285db97a360",
    "title": "Class configuration",
    "files": [],
+   "layout": "",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Class-configuration-845f.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "d9c2dbbf-c38d-ef32-2b68-412c8ac597eb",
+   "title": "Auto-created test students",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Auto-created-test-students-d9c2.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "9e077884-d353-9a01-c9fa-eb51dc12cf69",
+   "title": "Inviting and creating students",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Inviting-and-creating-students-9e07.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
@@ -394,10 +406,11 @@
    "id": "1ccc8afa-5671-87a9-fa23-c461ecf9de4f",
    "title": "Updates to this Guide",
    "files": [],
+   "layout": "",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Updates-to-this-Guide-1ccc.md",
-   "chapter": false,
+   "chapter": true,
    "reset": [],
    "teacherOnly": false
   }
