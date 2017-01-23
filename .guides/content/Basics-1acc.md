@@ -1,16 +1,16 @@
-To get full details about Guides, please [refer to the documentation](https://codio.com/docs/content/authoring/).
-
 We won't go deep into content authoring using Guides, but we will do just enough to allow you to create some simple assessments. These will be useful when we assign the project to the class.
 
 ## Guides
 Both tutorial content and auto-graded assessments need to be authored using Guides.
 
-[Watch this short video](https://vimeo.com/200593228) for an overview first.
+[Watch this short video](https://vimeo.com/200593228) for a brief overview of Guides authoring first.
 
 Now open up the Guides editor from the Tools->Guides->Edit menu.
 
-### Demo project
-The Demo Guides and Assessments project in My Projects contains a section on the full range of text formatting capabilities within guides as well as more advanced assessment examples. It is not necessary to look at this now but you may want to later.
+### Demo project and documentation
+The **Demo Guides and Assessments** project in My Projects contains a section on the full range of text formatting capabilities within guides as well as more advanced assessment examples. It is not necessary to look at this now but you may want to later. If, for any reason, you do not see this in your My Projects list, then [click here](https://codio.com/home/starter-packs/cc68d38b-b0ea-4825-9814-46a3594c2b11/) to create this from a Codio Starter Pack. Click the **Use Pack** button to create a new project from it.
+
+To get full details about Guides, please [refer to the documentation](https://codio.com/docs/content/authoring/).
 
 ## Reference
 Below is a quick reference of the key Guides editing features for future reference.
