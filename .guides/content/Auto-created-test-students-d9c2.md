@@ -18,4 +18,10 @@ Please follow these steps to find out which students have been created. These st
 The organization owner will need to provide you with the passwords for each of these users so you can log in. 
 
 ## Try logging in
-At this point it is a good idea to check that you can log in to a test student account. Please give it a go.
+At this point it is a good idea to check that you can log in to a test student account. 
+
+If you want to work as both faculty/teacher and a student simultaneously then you should follow these steps as Codio does not allow you to be logged in as 2 different users in the same browser.
+
+- Log in as faculty/teacher (which is probably the case now) in your main browser.
+- Then, *either* open a new browser type *or* open an incognito/private browser window.
+- Finally, login to this second browser as the student.
