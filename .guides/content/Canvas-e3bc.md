@@ -80,6 +80,8 @@ We now return to Canvas complete the mapping.
 ## Adding faculty and students
 The final step is to add students to your course. This is done from the People tab. We recommend that you add the same test students to Canvas that you have in Codio. The only field of data that needs to match is the email address. So, look up the Codio test student email addresses and add them to Canvas in the student role.
 
+When you add a student in Canvas you will need to confirm from the email you are sent. **Important** : make sure you log out of your teacher based Canvas session before doing this.
+
 Next, you should login to Canvas as a test student and start the assignment. Please read on to see what happens next, which is dependent.
 
 **IMPORTANT** : when you access Codio from Canvas, this user will become the dominant Codio user in the browser. This means that if you have a Codio session open (say you are logged in as faculty) and you start an assignment from Canvas as a student, the old Codio session will be invalidated. To get around this, you should think about running your teacher account in a separate browser type or in an incognito window. Just be aware of this when testing.
