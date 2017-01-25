@@ -106,7 +106,7 @@ Once **Release Grades** is enabled, all completed student assignments are automa
 
 ![](.guides/img/release-complete.png)
 
-There are various to mark a student's work as complete
+There are various ways to mark a student's work as complete
 
 - The student can do this from either the classroom dashboard or from the **Education->Mark as complete** menu in the assignment itself.
 - The teacher can do the same from the Unit in the classroom dashboard by hovering in the left side of a student entry and then setting the completed switch.

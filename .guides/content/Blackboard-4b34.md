@@ -63,7 +63,7 @@ We now return to Blackboard complete the mapping.
 - Select **Web Link**.
 - In the **Web Link Information** section ...
   - Enter a name for the content
-  - Paste in the LTI Integration that you just copied to the clipboard from Codio
+  - Paste in the **LTI Integration URL** that you just copied to the clipboard from Codio
   - Check the box **Ths is a link to a tool provider**
   - Select **Yes** for the field **Enable Evaulation** after which more fields will appear
   - Set the points you want to award for this content (Codio will automatically scale the percentage value it uses to the points you specify here)
@@ -99,7 +99,7 @@ Once **Release Grades** is enabled, all completed student assignments are automa
 
 ![](.guides/img/release-complete.png)
 
-There are various to mark a student's work as complete
+There are various ways to mark a student's work as complete
 
 - The student can do this from either the classroom dashboard or from the **Education->Mark as complete** menu in the assignment itself.
 - The teacher can do the same from the Unit in the classroom dashboard by hovering in the left side of a student entry and then setting the completed switch.
