@@ -28,7 +28,7 @@ Now return to the **Default Configuration** section in Blackboard. We will now c
 
 - LTI Consumer -> Tool Provider Key
 - LTI Secret -> Tool Provider Secret
-- LTI URL -> ????????????????????????????????????????
+
 
 ## Codio Class setup
 You need to perform the following actions one time only for a class. The Blackboard user who carries out these steps does not need to be a system administrator but must have suitable privileges to edit courses and assignments.
