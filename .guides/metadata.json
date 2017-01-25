@@ -437,6 +437,17 @@
    "teacherOnly": false
   },
   {
+   "id": "6be4a652-124a-791c-0ddc-6cff60ccb7bf",
+   "title": "Moodle",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Moodle-6be4.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
    "id": "1ccc8afa-5671-87a9-fa23-c461ecf9de4f",
    "title": "Updates to this Guide",
    "files": [],

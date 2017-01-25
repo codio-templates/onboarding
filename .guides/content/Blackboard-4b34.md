@@ -23,7 +23,6 @@ The Blackboard user who carries out these steps must be a Blackboard system admi
   - set **Send User Data** to **Send user data only over SSL**.
   - in **User Fields to Send** you should set all 3 fields (Constituency in Course, Name, Email Address).
 
-
 ### In Codio and Blackboard
 Now return to the **Default Configuration** section in Blackboard. We will now copy the following global integration fields from Codio to Blackboard.
 
@@ -72,13 +71,17 @@ We now return to Blackboard complete the mapping.
 
 
 ## Adding faculty and students
-The final step is to add students to your course. This is done from the **Users and Groups** section in the left toolbar.
+The final step is to add students to your course. This is done from the People tab. We recommend that you add the same test students to Blackboard that you have in Codio. The only field of data that needs to match is the email address. So, look up the Codio test student email addresses and add them to Blackboard in the student role.
+
+Next, you should login to Blackboard as a test student and start the assignment. Please read on to see what happens next, which is dependent.
+
+**IMPORTANT** : when you access Codio from Blackboard, this user will become the dominant Codio user in the browser. This means that if you have a Codio session open (say you are logged in as faculty) and open some content from Blackboard as a student, the old Codio session will be invalidated. To get around this, you should think about running your teacher account in a separate browser type or in an incognito window. Just be aware of this when testing.
 
 ### Single sign-in and account creation
 It is important to understand how Codio maps Blackboard users to Codio users. The following rules should be understood. If students or faculty access Codio via a Blackboard assignment then Codio will use the Blackboard email address to identify the user. 
 
-- If the user is not known to Codio then we will sign up the user as a new Codio user. Once this is done, the user will be taken into the Codio content. [MAX - ARE TEACHERS AUTOMATICALLY ADDED AS A CODIO TEACHER?]
-- If the user is known to Codio then Codio will take them directly into the Codio content without any sign-in required. [HOW IS THE VALIDATION PERFORMED]
+- If the user is not known to Codio then we will sign up the user as a new Codio user in the background and take the user directly into the Codio content. The Blackboard user role will be carried over as well.
+- If the user is known to Codio then Codio will take them directly into the Codio content without any sign-in required. If they are a Codio user but are not a member of your organization then they will be required to complete a verification via email. 
 
 ## Generating scores
 You should now generate some scores to pass back to Codio. You can do either of the following.
@@ -87,13 +90,23 @@ You should now generate some scores to pass back to Codio. You can do either of 
 - You can also manually grade the student Unit in Codio. You will need to enter a percentage value here as the LMS/LTI interface requires this.
 
 ## Releasing grades
-You can now release the grades, which will pass the grades back to Blackboard, To do this ...
+By default, grades in Codio are neither passed back to the student nor to Blackboard until they are 
 
-- Go to the main class screen.
-- Select the Unit.
-- Press the **Action** button towards the top right of the page.
-- Enable the "Release Grades" switch. As soon as you do this, the grades are sent to Canvas.
+- Marked as complete by either the student or the teacher and
+- the **Release Grades** switch is enabled.
 
-If grades change for any reason after releasing the grades, you can switch **Release Grades** off and back on again.
+Once **Release Grades** is enabled, all completed student assignments are automatically sent through. 
 
-You should now be able to see the grades in Blackboard.
+![](.guides/img/release-complete.png)
+
+There are various to mark a student's work as complete
+
+- The student can do this from either the classroom dashboard or from the **Education->Mark as complete** menu in the assignment itself.
+- The teacher can do the same from the Unit in the classroom dashboard by hovering in the left side of a student entry and then setting the completed switch.
+- The teacher can mark all student assignments as completed in one action. This is done by 
+  - selecting the Unit in the classroom
+  - pressing the **Action** button 
+  - pressing the **Mark all as completed** button
+
+**Important** : If you are running a staging or test Blackboard environment then you must have a valid SSL certificate on your Blackboard server otherwise grades will not be pass back to Blackboard successfully.
+
