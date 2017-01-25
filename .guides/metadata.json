@@ -403,6 +403,40 @@
    "teacherOnly": false
   },
   {
+   "id": "6ba2332a-00bc-1283-2e05-883df78220a4",
+   "title": "LMS Integration",
+   "files": [],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/LMS-Integration-6ba2.md",
+   "chapter": true,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "e3bc8a2b-a663-7c93-c1c6-bb0006b9f347",
+   "title": "Canvas",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Canvas-e3bc.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "4b34153c-29c3-27e9-33a4-67f040f79e0d",
+   "title": "Blackboard",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Blackboard-4b34.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
    "id": "1ccc8afa-5671-87a9-fa23-c461ecf9de4f",
    "title": "Updates to this Guide",
    "files": [],
