@@ -5,6 +5,8 @@ If you created your trial before this date or want to add more test students the
 ## LMS Platforms
 When you are in production and if you use an LMS platform then the Codio/LMS integration takes care of all student account creation. However, during the onboarding phase we stringly recommend using the procedure outlined in this Guide. We address the LMS setup later in this Guide.
 
+{Go to LMS Integration Section| go-to-section-titled}(LMS Integration)
+
 ## Checking for existing students
 Please follow these steps to find out which students have been created. These steps will only work if you are an organization owner. If you are not, then please ask the organization owner to promote you to being an owner during the onboarding phase.
 

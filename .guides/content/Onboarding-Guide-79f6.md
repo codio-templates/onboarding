@@ -15,4 +15,28 @@ You can create your own Guides that
 - is where you configure auto-graded code assessments
 - controls all visual aspects of the IDE such as opening code panels, terminals, url previews in multiple panels
 
+### Navigating this Guide
+To navigate this guide you can 
+
+- Use the Navigation Buttons in to to navigate forward/backward in the guide one page at a time
+
+- Use the Show/Hide Section List Hamburger Icon to show/hide the section list and click on the required section
+
+![](.guides/img/navigation.png)
+
+- Use the 'Next' button at the bottom of every page
+
+or you can click on any of the buttons below to jump to the relevant section
+
+{Go to Account Information Section| go-to-section-titled}(Account Information)
+
+{Go to Projects Section| go-to-section-titled}(Projects)
+
+{Go to Projects - Reference features Section| go-to-section-titled}(Projects - Reference features)
+
+{Go to Assessments and Guides Section| go-to-section-titled}(Assessments and Guides)
+
+{Go to Class Management Section| go-to-section-titled}(Class Management)
+
+{Go to LMS Integration Section| go-to-section-titled}(LMS Integration)
 
