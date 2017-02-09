@@ -315,12 +315,23 @@
    "teacherOnly": false
   },
   {
-   "id": "9e077884-d353-9a01-c9fa-eb51dc12cf69",
-   "title": "Inviting and creating students",
+   "id": "727e59d2-b4d6-39ee-860c-e39903c6bfc9",
+   "title": "Working with test students",
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Inviting-and-creating-students-9e07.md",
+   "content-file": ".guides/content/Working-with-test-students-727e.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "9e077884-d353-9a01-c9fa-eb51dc12cf69",
+   "title": "Inviting real students",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Inviting-real-students-9e07.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
@@ -462,5 +473,6 @@
  ],
  "theme": "light",
  "scripts": [],
- "lexikonTopic": ""
+ "lexikonTopic": "",
+ "suppressPageNumbering": false
 }

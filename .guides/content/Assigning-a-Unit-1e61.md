@@ -9,9 +9,9 @@ In Codio, a teaching Unit is a project that has been assigned to a class. The sc
 The simplest and quickest thing you can do is to assign one of your projects to a class. Once assigned, we refer to it as a Unit but the Unit's source is simply a project.
 
 - With the class selected, click on the Units tab at the top of the page. The list will be empty at this point.
-- Now click the '+' button in the top left.
-- Select 'Add project as unit'
-- Select the project we have been working
+- Now click the **+** button in the top left.
+- Select **Add project as unit**
+- Select the project we have been working on
 - At this point you can start the assignment process, which take just a second or two
 
 ![](.guides/img/add-unit-project.png)
