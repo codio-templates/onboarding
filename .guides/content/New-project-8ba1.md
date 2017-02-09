@@ -7,7 +7,7 @@ Codio offers you a range of commonly used stacks to get you started. You should 
 
 You will notice that there is a 'Click here' link below the stack buttons. If you like, you can explore this and see some advanced options for creating the project. We won't explain these here.
 
-- Select the Python3 stack
+- Select the Python stack
 
 ### Project name
 You should give your project a name. Enter "My First Project" then press enter or the Create button to fire up your server and we can start work on our project.
