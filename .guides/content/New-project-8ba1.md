@@ -9,6 +9,7 @@ You will notice that there is a 'Click here' link below the stack buttons. If yo
 
 - Select the **Python** stack
 
+
 ### Project name
 You should give your project a name. Enter **My First Project** then press enter or the Create button to fire up your server and we can start work on our project.
 
