@@ -3,9 +3,11 @@ Codio automatically manages up to three test student accounts. This is extremely
 ### Checking the test students
 You can find the test student accounts as follows. You will need to be an organization owner.
 
+![](.guides/img/dashboard-pre-test-students.png)
+
 - From the bottom left of your Codio Dashboard, click on your user name.
 - Now click on your organization name. 
-- In the lower part of the screen, you will see an entry "Test Students", click on it.
+- In the lower part of the screen, you will see an entry **Test Students**, click on it.
 - You should see three test students. If you don't, click on the **Restore test student accounts** button.
 
 ![](.guides/img/test-students-list.png)
