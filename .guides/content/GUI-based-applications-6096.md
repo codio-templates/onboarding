@@ -9,7 +9,7 @@ If you are writing your own applications then you can use the normal frameworks 
 ### Documentation and Demo project
 [Full documentation can be found here](https://codio.com/docs/ide/boxes/installsw/gui/). 
 
-A sample GUI example project, **Demo GUI Uutput** can be found in My Projects in the Codio Dashboard. If, for any reason, you do not see this in your My Projects list, then [click here](https://codio.com/home/starter-packs/d9c00215-ec2a-46e7-b64e-85fab45b0872/) to create this from a Codio Starter Pack. Click the **Use Pack** button to create a new project from it.
+A sample GUI example project, **Demo GUI Output** can be found in My Projects in the Codio Dashboard. If, for any reason, you do not see this in your My Projects list, then [click here](https://codio.com/home/starter-packs/d9c00215-ec2a-46e7-b64e-85fab45b0872/) to create this from a Codio Starter Pack. Click the **Use Pack** button to create a new project from it.
 
 ![](.guides/img/virtual-desktop.png)
 

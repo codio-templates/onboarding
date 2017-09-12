@@ -7,7 +7,7 @@ Make sure your class is selected and the Units tab is selected within it. Then .
 - You can see the following
   - how much time a student has spent within the Unit
   - their auto-graded scoring
-  - whether the student has completed the unit (the left columm shows this but the student has probably not set this yet)
+  - whether the student has completed the unit (the left column shows this but the student has probably not set this yet)
   
 ![](.guides/img/unit-teacher.png)
   

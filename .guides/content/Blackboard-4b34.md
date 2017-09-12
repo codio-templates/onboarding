@@ -65,7 +65,7 @@ We now return to Blackboard complete the mapping.
   - Enter a name for the content
   - Paste in the **LTI Integration URL** that you just copied to the clipboard from Codio
   - Check the box **Ths is a link to a tool provider**
-  - Select **Yes** for the field **Enable Evaulation** after which more fields will appear
+  - Select **Yes** for the field **Enable Evaluation** after which more fields will appear
   - Set the points you want to award for this content (Codio will automatically scale the percentage value it uses to the points you specify here)
   - Save the content settings.
 
