@@ -37,5 +37,5 @@ To do this
 - You will find a button beneath **Mark All as Completed**.
 
 ### Auto-grading when marked as completed
-An advanced Codio feature lets the Unit author include an auto-grading script that executes when the student marks the project as complete. It is beyond the scope of this Onboarding Guide to detail this here but you can [find details in our documentation](https://codio.com/docs/teacher/classes/autograde/) if interested.
+An advanced Codio feature lets the Unit author include an auto-grading script that executes when the student marks the project as complete. It is beyond the scope of this Onboarding Guide to detail this here but you can [find details in our documentation](https://codio.com/docs/classes/unitmanagement/autograde/) if interested.
 

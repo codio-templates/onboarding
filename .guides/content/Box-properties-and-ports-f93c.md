@@ -12,7 +12,7 @@ Firewalls can make life hard, so we have included some tricks that help access c
 For example `http://anita-trapeze-3000.codio.io` would allow you to access something running on port 3000 by including it in the domain name itself. The communication from you to Codio happens over port 80 but we re-route it internally.
 
 ### http and https ports
-Codio runs a slightly unusual approach to making the `https` protcol easy to work with. 
+Codio runs a slightly unusual approach to making the `https` protocol easy to work with. 
 
 - `http` ports should be within the range `1024` to `9500`
 - `https` ports should be within the range `9501` to `9999`

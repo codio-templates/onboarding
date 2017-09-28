@@ -31,7 +31,7 @@ Many setting are accessed by pressing the Settings button in the Guide editor to
 Within setting and on the Page tab you will find the Layout dropdown. Choose one of these for the currently selected page. If you select 'previous' then it will use last explicitly defined page layout.
 
 ### Opening code, previews and terminal windows
-Within settings you should select the Open Tabs tab. You can then add files, preview windows or terminal commands to execute. Panel 0 refers to the first panel from the left, exluding the Guides content itself.
+Within settings you should select the Open Tabs tab. You can then add files, preview windows or terminal commands to execute. Panel 0 refers to the first panel from the left, excluding the Guides content itself.
 
 ### Closing panels
 On the main settings page, enabling Close Tabs will ensure that any tabs opened by Guides are closed when the current page is shown.
