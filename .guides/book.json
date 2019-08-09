@@ -1,0 +1,253 @@
+{
+ "name": "onboarding11",
+ "children": [
+  {
+   "title": "Onboarding Guide",
+   "id": "79f60b44-3979-3a67-2bb7-1f12907551e9",
+   "pageId": "79f60b44-3979-3a67-2bb7-1f12907551e9",
+   "type": "chapter",
+   "children": []
+  },
+  {
+   "title": "Account Information",
+   "id": "520802d7-9460-b950-e59e-d04a36c34ef1",
+   "pageId": "520802d7-9460-b950-e59e-d04a36c34ef1",
+   "type": "chapter",
+   "children": [
+    {
+     "title": "Inviting faculty/teachers",
+     "id": "e11e7c67-93ab-bc99-05a9-cfb4c3d2f7f4",
+     "pageId": "e11e7c67-93ab-bc99-05a9-cfb4c3d2f7f4",
+     "type": "page"
+    }
+   ]
+  },
+  {
+   "title": "Projects",
+   "id": "f1c7fdea-a602-5410-7167-a91fbed8ac03",
+   "pageId": "f1c7fdea-a602-5410-7167-a91fbed8ac03",
+   "type": "chapter",
+   "children": [
+    {
+     "title": "New project",
+     "id": "8ba13951-cbb0-b2e4-aa3c-09bef0fe5e93",
+     "pageId": "8ba13951-cbb0-b2e4-aa3c-09bef0fe5e93",
+     "type": "page"
+    },
+    {
+     "title": "File creation",
+     "id": "67a409d4-2bcd-3f9b-1c29-99ad68683eeb",
+     "pageId": "67a409d4-2bcd-3f9b-1c29-99ad68683eeb",
+     "type": "page"
+    },
+    {
+     "title": "Custom menu items",
+     "id": "53416842-eb45-91ec-87c9-fa01f6a3843c",
+     "pageId": "53416842-eb45-91ec-87c9-fa01f6a3843c",
+     "type": "page"
+    },
+    {
+     "title": "The terminal window",
+     "id": "460a1e59-c62d-90cc-9b2a-632422eebb07",
+     "pageId": "460a1e59-c62d-90cc-9b2a-632422eebb07",
+     "type": "page"
+    },
+    {
+     "title": "Leaving a project",
+     "id": "7baaf6b1-2b71-bcd3-1620-ec8ab45d98a7",
+     "pageId": "7baaf6b1-2b71-bcd3-1620-ec8ab45d98a7",
+     "type": "page"
+    }
+   ]
+  },
+  {
+   "title": "Projects - Reference features",
+   "id": "474b2c83-f3b2-7732-c9e3-1905360e8f2a",
+   "pageId": "474b2c83-f3b2-7732-c9e3-1905360e8f2a",
+   "type": "chapter",
+   "children": [
+    {
+     "title": "Settings, preferences & permissions",
+     "id": "93f3ae1e-b73d-9518-5673-4676a55a5599",
+     "pageId": "93f3ae1e-b73d-9518-5673-4676a55a5599",
+     "type": "page"
+    },
+    {
+     "title": "Forking",
+     "id": "97bf3987-dc0e-de02-e883-056916d94d33",
+     "pageId": "97bf3987-dc0e-de02-e883-056916d94d33",
+     "type": "page"
+    },
+    {
+     "title": "Box properties and ports",
+     "id": "f93c09cd-015e-8f39-28a8-009d13fee18f",
+     "pageId": "f93c09cd-015e-8f39-28a8-009d13fee18f",
+     "type": "page"
+    },
+    {
+     "title": "Rebooting the box",
+     "id": "b365d838-7e9b-d02f-89e2-0cbf9a8bc9b6",
+     "pageId": "b365d838-7e9b-d02f-89e2-0cbf9a8bc9b6",
+     "type": "page"
+    },
+    {
+     "title": "Multiple panels",
+     "id": "516487b9-e3e5-2c4a-76cd-cdbf070cfc38",
+     "pageId": "516487b9-e3e5-2c4a-76cd-cdbf070cfc38",
+     "type": "page"
+    },
+    {
+     "title": "Installing software components",
+     "id": "34e18b20-400a-4227-2945-9c74bebc4e45",
+     "pageId": "34e18b20-400a-4227-2945-9c74bebc4e45",
+     "type": "page"
+    },
+    {
+     "title": "GUI based applications",
+     "id": "6096cf5e-96ea-6ad4-d06b-4f5f1fa4acec",
+     "pageId": "6096cf5e-96ea-6ad4-d06b-4f5f1fa4acec",
+     "type": "page"
+    },
+    {
+     "title": "Visual debugger",
+     "id": "f2accace-0822-aa89-c0b2-179777b350fb",
+     "pageId": "f2accace-0822-aa89-c0b2-179777b350fb",
+     "type": "page"
+    }
+   ]
+  },
+  {
+   "title": "Assessments and Guides",
+   "id": "e7c2d8ad-0939-d839-f4de-5c2660d6b049",
+   "pageId": "e7c2d8ad-0939-d839-f4de-5c2660d6b049",
+   "type": "chapter",
+   "children": [
+    {
+     "title": "Basics",
+     "id": "1acc6e4f-206c-0fd9-f6c3-256fcc31cea8",
+     "pageId": "1acc6e4f-206c-0fd9-f6c3-256fcc31cea8",
+     "type": "page"
+    },
+    {
+     "title": "Assessments",
+     "id": "6d5491c6-596d-0ccc-516a-33ae021c4e67",
+     "pageId": "6d5491c6-596d-0ccc-516a-33ae021c4e67",
+     "type": "page"
+    },
+    {
+     "title": "README.md Guides alternative",
+     "id": "c87636d4-0033-652f-a559-c912410680f6",
+     "pageId": "c87636d4-0033-652f-a559-c912410680f6",
+     "type": "page"
+    }
+   ]
+  },
+  {
+   "title": "Class Management",
+   "id": "ea5d06c4-0283-1b21-3c8f-4b88db21e134",
+   "pageId": "ea5d06c4-0283-1b21-3c8f-4b88db21e134",
+   "type": "chapter",
+   "children": [
+    {
+     "title": "Class configuration",
+     "id": "845fa919-6342-ae70-0c9c-f285db97a360",
+     "pageId": "845fa919-6342-ae70-0c9c-f285db97a360",
+     "type": "page"
+    },
+    {
+     "title": "Auto-created test students",
+     "id": "d9c2dbbf-c38d-ef32-2b68-412c8ac597eb",
+     "pageId": "d9c2dbbf-c38d-ef32-2b68-412c8ac597eb",
+     "type": "page"
+    },
+    {
+     "title": "Working with test students",
+     "id": "727e59d2-b4d6-39ee-860c-e39903c6bfc9",
+     "pageId": "727e59d2-b4d6-39ee-860c-e39903c6bfc9",
+     "type": "page"
+    },
+    {
+     "title": "Inviting real students",
+     "id": "9e077884-d353-9a01-c9fa-eb51dc12cf69",
+     "pageId": "9e077884-d353-9a01-c9fa-eb51dc12cf69",
+     "type": "page"
+    },
+    {
+     "title": "Assigning a Unit",
+     "id": "1e61d266-8c7e-785c-47a6-30204b2453c8",
+     "pageId": "1e61d266-8c7e-785c-47a6-30204b2453c8",
+     "type": "page"
+    },
+    {
+     "title": "Start student Unit",
+     "id": "14296af3-8b6d-3cf7-aff0-50d745bad210",
+     "pageId": "14296af3-8b6d-3cf7-aff0-50d745bad210",
+     "type": "page"
+    },
+    {
+     "title": "Marking Unit as completed",
+     "id": "d15dcb0a-f3cf-c534-651f-aaa37f2c8a9a",
+     "pageId": "d15dcb0a-f3cf-c534-651f-aaa37f2c8a9a",
+     "type": "page"
+    },
+    {
+     "title": "Unit dashboard",
+     "id": "70a4d9ec-3573-ff16-faf9-26e17e3dc99e",
+     "pageId": "70a4d9ec-3573-ff16-faf9-26e17e3dc99e",
+     "type": "page"
+    },
+    {
+     "title": "Leaving messages",
+     "id": "e343d184-9b0b-6d00-3dc3-ee386c62b3c1",
+     "pageId": "e343d184-9b0b-6d00-3dc3-ee386c62b3c1",
+     "type": "page"
+    },
+    {
+     "title": "Manual Grading",
+     "id": "1d379f01-f271-1f48-8364-946b6de9f339",
+     "pageId": "1d379f01-f271-1f48-8364-946b6de9f339",
+     "type": "page"
+    },
+    {
+     "title": "Releasing Grades",
+     "id": "d990966c-ff9d-ce40-4380-920df3cc8b88",
+     "pageId": "d990966c-ff9d-ce40-4380-920df3cc8b88",
+     "type": "page"
+    }
+   ]
+  },
+  {
+   "title": "LMS Integration",
+   "id": "6ba2332a-00bc-1283-2e05-883df78220a4",
+   "pageId": "6ba2332a-00bc-1283-2e05-883df78220a4",
+   "type": "chapter",
+   "children": [
+    {
+     "title": "Canvas",
+     "id": "e3bc8a2b-a663-7c93-c1c6-bb0006b9f347",
+     "pageId": "e3bc8a2b-a663-7c93-c1c6-bb0006b9f347",
+     "type": "page"
+    },
+    {
+     "title": "Blackboard",
+     "id": "4b34153c-29c3-27e9-33a4-67f040f79e0d",
+     "pageId": "4b34153c-29c3-27e9-33a4-67f040f79e0d",
+     "type": "page"
+    },
+    {
+     "title": "Moodle",
+     "id": "6be4a652-124a-791c-0ddc-6cff60ccb7bf",
+     "pageId": "6be4a652-124a-791c-0ddc-6cff60ccb7bf",
+     "type": "page"
+    }
+   ]
+  },
+  {
+   "title": "Updates to this Guide",
+   "id": "1ccc8afa-5671-87a9-fa23-c461ecf9de4f",
+   "pageId": "1ccc8afa-5671-87a9-fa23-c461ecf9de4f",
+   "type": "chapter",
+   "children": []
+  }
+ ]
+}
