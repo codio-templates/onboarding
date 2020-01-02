@@ -21,7 +21,7 @@ Because all projects live in the Cloud, sharing projects is easy and instant. An
 ### Assessment configuration
 Codio has an extremely powerful set of auto-graded assessment capabilities (multiple choice and auto-graded code tests). Codio Guides provides everything you need to scaffold these.
 
-### Course unit creation
+### Course assessment creation
 Later, we will look at how you can publish units of content that can contain simple projects, assessments or rich tutorial content. All of these are managed within a projects.
 
 ### Tutorial authoring

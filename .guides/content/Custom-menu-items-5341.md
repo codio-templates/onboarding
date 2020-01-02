@@ -22,4 +22,4 @@ If you close the `.codio` file, you will see `Run it!!!` in the menu. You can no
 ### Previews
 The `preview` section is where you put url references that open in a 'preview' window. You specify a url and it will be served up.
 
-We will not spend time here now, but feel free to find out more about the possible settings and tokens. [Click here for the documentation](https://codio.com/docs/ide/features/inline-preview/).
+We will not spend time here now, but feel free to find out more about the possible settings and tokens. [Click here for the documentation](https://docs.codio.com/ide/features/#preview).

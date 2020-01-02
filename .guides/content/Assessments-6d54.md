@@ -7,7 +7,7 @@ If, for any reason, you do not see this in your My Projects list, then [click he
 Please [watch this video](https://vimeo.com/200593173) first.
 
 ## Documentation
-[Click here](https://codio.com/docs/content/authoring/assessments/) to read the assessments documentation.
+[Click here](https://docs.codio.com/courses/assessments/) to read the assessments documentation.
 
 ### Creating new assessments
 All assessments are created form the dropdown menu in the Guides toolbar with the tool chesspiece icon.

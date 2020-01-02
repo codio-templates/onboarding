@@ -1,7 +1,7 @@
 There are a variety of settings that you can make to control your the IDE behavior and appearances.
 
 ## Project settings
-The project settings can be found in the Project->Settings menu. [Click here for full documentation](https://codio.com/docs/ide/customization/project-settings/).
+The project settings can be found in the Project->Settings menu. [Click here for full documentation](https://docs.codio.com/ide/settings/#project-settings).
 
 ![](.guides/img/project-settings.png)
 
@@ -24,7 +24,7 @@ You can allow specific Codio users to access your projects, even if the project 
 ![](.guides/img/project-permissions.png)
 
 ## Preferences
-Preferences refer to general IDE settings. There are a very large number of settings available and these are best viewed by accessing the settings themselves. [Additional documentation is available here](https://codio.com/docs/ide/customization/codio-prefs/).
+Preferences refer to general IDE settings. There are a very large number of settings available and these are best viewed by accessing the settings themselves. [Additional documentation is available here](https://docs.codio.com/ide/settings/#user-preferences).
 
 ![](.guides/img/preferences.png)
 

@@ -298,7 +298,7 @@
   },
   {
    "id": "ea5d06c4-0283-1b21-3c8f-4b88db21e134",
-   "title": "Class Management",
+   "title": "Course Management",
    "files": [
     {
      "path": "#tabs",
@@ -308,7 +308,7 @@
    "layout": "",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Class-Management-ea5d.md",
+   "content-file": ".guides/content/Course-Management-ea5d.md",
    "chapter": true,
    "reset": [],
    "teacherOnly": false,
@@ -316,12 +316,12 @@
   },
   {
    "id": "845fa919-6342-ae70-0c9c-f285db97a360",
-   "title": "Class configuration",
+   "title": "Course configuration",
    "files": [],
    "layout": "",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Class-configuration-845f.md",
+   "content-file": ".guides/content/Course-configuration-845f.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
@@ -365,11 +365,11 @@
   },
   {
    "id": "1e61d266-8c7e-785c-47a6-30204b2453c8",
-   "title": "Assigning a Unit",
+   "title": "Assigning an Assessment",
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Assigning-a-Unit-1e61.md",
+   "content-file": ".guides/content/Assigning-an-Assessment-1e61.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
@@ -514,6 +514,12 @@
  "scripts": [],
  "lexikonTopic": "",
  "suppressPageNumbering": false,
+ "useSubmitButtons": true,
+ "useMarkAsComplete": true,
  "hideMenu": false,
- "allowGuideClose": false
+ "allowGuideClose": false,
+ "collapsedOnStart": false,
+ "hideSectionsToggle": false,
+ "hideBackToDashboard": false,
+ "protectLayout": false
 }

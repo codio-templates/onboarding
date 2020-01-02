@@ -143,13 +143,13 @@
    ]
   },
   {
-   "title": "Class Management",
+   "title": "Course Management",
    "id": "ea5d06c4-0283-1b21-3c8f-4b88db21e134",
    "pageId": "ea5d06c4-0283-1b21-3c8f-4b88db21e134",
    "type": "chapter",
    "children": [
     {
-     "title": "Class configuration",
+     "title": "Course configuration",
      "id": "845fa919-6342-ae70-0c9c-f285db97a360",
      "pageId": "845fa919-6342-ae70-0c9c-f285db97a360",
      "type": "page"
@@ -173,7 +173,7 @@
      "type": "page"
     },
     {
-     "title": "Assigning a Unit",
+     "title": "Assigning an Assessment",
      "id": "1e61d266-8c7e-785c-47a6-30204b2453c8",
      "pageId": "1e61d266-8c7e-785c-47a6-30204b2453c8",
      "type": "page"

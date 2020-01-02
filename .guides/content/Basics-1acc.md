@@ -10,7 +10,7 @@ Now open up the Guides editor from the Tools->Guides->Edit menu.
 ### Demo project and documentation
 The **Demo Guides and Assessments** project in My Projects contains a section on the full range of text formatting capabilities within guides as well as more advanced assessment examples. It is not necessary to look at this now but you may want to later. If, for any reason, you do not see this in your My Projects list, then [click here](https://codio.com/home/starter-packs/cc68d38b-b0ea-4825-9814-46a3594c2b11/) to create this from a Codio Starter Pack. Click the **Use Pack** button to create a new project from it.
 
-To get full details about Guides, please [refer to the documentation](https://codio.com/docs/content/authoring/).
+To get full details about Guides, please [refer to the documentation](https://docs.codio.com/courses/authoring/).
 
 ## Reference
 Below is a quick reference of the key Guides editing features for future reference.
