@@ -10,26 +10,33 @@ The simplest and quickest thing you can do is to assign one of your projects to 
 
 - With the course selected, click on the Assessment tab at the top of the page. The list will be empty at this point.
 - Now click the **+** button in the top left.
-- Select **Add project as unit**
-- Select the project we have been working on
-- At this point you can start the assignment process, which take just a second or two
+- Select **Empty Module** and create a new module.
+- When created click **Add Assignment** and then select **Project Based**
+- From here you can either start creating a new project or import projects in. As you have already created your project earlier in this guide, click on the option
 
-![](.guides/img/add-unit-project.png)
+![](.guides/img/import.png)
 
-At this point, we take a snapshot of your source project, ready for the students to clone when they start the Unit. Any changes you make to the source project will not be reflected automatically in the student Unit.
+- Then select **Fork Project** and your project will show. If you have other projects in your **My Projects** area you can browse to select one of them.
+- At this point you can set the name of the assignment (by default it will be the name of your project with 'fork' appended) and add a description if you wish.
+- When ready, click the **Create** button and the assignment will be added to the course module in draft mode.
+- For the assignment to be visible to your students, you need to **Publish** the assignment
 
-Once assigned to the course, each student will be able to access the Unit from their dashboard. Go to (or open up) your student in another browser window and refresh the page. Make sure you have the correct course selected form the dropdown. You will now see the Unit in the list. If you don't, make sure the Course dropdown has 'Ad Hoc Projects' selected.  
+![](.guides/img/publish.png)
 
-### Pinning a Unit
+At this point, we take a snapshot of your source project, ready for the students to clone when they start the assignment. Any changes you make to the source project will not be reflected automatically in the student assignment.
+
+Once assigned to the course, each student will be able to access the assignment from their dashboard. Go to the **Students** tab and login as one of the test students. Make sure you have the correct course and module selected form the dropdowns. You will now see the assignment in the list. If you don't, make sure the module dropdown has the correct module name selected.  You can then switch back to your teacher account.
+
+### Pinning an assignment
 One very useful feature is to 'pin' the Unit. This allows the faculty member to pin the Unit to the top of the students' dashboards so it is easy to find.
 
-If you have just assigned the new Unit then you will see your new project as the only project in the list below. To the right of the list item is an icon with three blue dots. Click on this and then select the 'Pin Unit' option. 
+If you have just assigned the new assignment then you will see your new project as the only project in the list below. To the top right of the list item is a pencil icon. Click on this and then click the 'Pin' icon. 
 
 ![](.guides/img/pin-unit.png)
 
-Now return to the student and reload the page. You will see the unit pinned in the top bar.
+Now return to the student and reload the page. You will see the assignment pinned in the top bar.
 
-### Assigning a Course Module
+### Assigning a Course Module >> To remove ?
 Courses are a great way to assign multiple Units to a course in one go. For this to be relevant you first need to have your content organized as a course. 
 
 We will not attempt to cover course creation here but just show you how to assign existing course materials to the course. Please look for the 'Course creation' page within this Guide for more details.

@@ -1,0 +1,24 @@
+Now that the students have made some changes we can monitor student progress from the assignment dashboard.
+
+Make sure your course is selected and the assignment tab is selected within it. Then ...
+
+- Notice how the assignment listing shows you how many students have started the Unit
+- Select the assignment to see more details
+- You can see the following
+  - how much time a student has spent within the assignment
+  - their auto-graded scoring
+  - whether the student has completed the assignment (the left column shows this but the student has probably not set this yet)
+  
+
+  
+### Accessing student code
+To access an individual student's assignment, locate the icon with the 3 blue dots on to the right side of the student line. Press it then select 'Login as'.
+
+You will be immediately taken to the student's assignment. Check the code changes the student has made.
+
+![](.guides/img/access-code.png)
+
+As a faculty member, you have full permissions on the student's box including terminal access.
+
+Feel free to return to the student account in your other browser window and see what changes the teacher may have made.
+
