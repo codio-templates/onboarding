@@ -1,3 +1,8 @@
+## Codio LTI App
+The Codio LTI App allows an easy way to integrate Codio with supported LMS systems. Check out [Codio LTI App](https://codio.com/docs/classes/lti/lti1_0/ltiapp/) for more on this
+
+If you are unable to use this method, read on for an alternative method to set up integration with your LMS system
+
 ### Authentication and account creation
 Once you have configured the LTI/LMS settings, Moodle manages all aspects of signing in to Codio as well as account creation. All your teachers and students need is a Moodle account.
 

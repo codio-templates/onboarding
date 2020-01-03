@@ -1,3 +1,8 @@
+## Codio LTI App
+The Codio LTI App allows an easy way to integrate Codio with supported LMS systems. Check out [Codio LTI App](https://codio.com/docs/classes/lti/lti1_0/ltiapp/) for more on this
+
+If you are unable to use this method, read on for an alternative method to set up integration with your LMS system
+
 ## Preparation
 The following steps need to be taken only one time per class.
 
