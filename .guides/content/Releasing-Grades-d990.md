@@ -6,10 +6,10 @@ If you are using an LMS, all grades including auto-graded results are not posted
 
 To release grades, follow these steps ...
 
-- Select the assignment within the class
+- Select the assignment within the courses
 - Locate the 'Actions' button near the top
 - Locate the 'Release Grades' switch in the set of options that appear and enable it
 
-At this point, all grades will be released. If you are using an LMS and there any any changes to manual grading scores, then you should disable this and re-enable it again.
+At this point, all grades will be released. If you are using an LMS and there are any changes to manual grading scores, then you should disable this and re-enable it again.
 
 

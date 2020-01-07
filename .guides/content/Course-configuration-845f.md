@@ -2,7 +2,7 @@
 Creating new Courses are managed from the Courses section of the dashboard.
 
 ## Creating new courses
-You can create a new course by pressing the '+' button at the top of the page. Give the class a meaningful name and press create.
+You can create a new course by pressing the '+' button at the top of the page. Give the course a meaningful name and press create.
 
 Create a course called 'My First Course'.
 

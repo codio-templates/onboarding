@@ -17,7 +17,7 @@ You should note that once an assignment has been marked as completed by the stud
 
 
 ### Resetting the completed flag
-When students mark the assignment as complete they get a warning telling them that once set they will not be able to make any further changes to the project. This can behavior be overriden by changing the assignment settings in the class.
+When students mark the assignment as complete they get a warning telling them that once set they will not be able to make any further changes to the project. This can behavior can be overriden by changing the assignment settings in the class.
 
 The teacher is able to reset the completed flag as follows.
 

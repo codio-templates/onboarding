@@ -30,6 +30,6 @@ Once you are signed in as a student, you should see a screen like the one below.
 ![](.guides/img/joined-class.png)
 
 ## Check the students
-Once you have added students to the course, you should check your faculty/teacher course view. Return to the course screen and reload the browser page. If you click on the Students tab, you should see the test students successfully added to the course and as your real students join the class fro the Course Invite URL, they will then appear
+Once you have added students to the course, you should check your faculty/teacher course view. Return to the course screen and reload the browser page. If you click on the Students tab, you should see the test students successfully added to the course and as your real students join the class from the Course Invite URL, they will then appear
 
 ![](.guides/img/students-unit.png)
