@@ -1,14 +1,14 @@
  We are now ready to assign some content to the course. 
  
-## An Assessment
-In Codio, a teaching assessment is a project that has been assigned to a course. The scope of an assessment is entirely up to you but it could be a project assignment that a course works on. It could also be some tutorial content built using Guides. We generally recommend that it relates reasonably closely to a lesson or two. But if you prefer and it suits your structure better then you can assign as much or as little content to a Unit as you like.
+## An Assignment
+In Codio, a teaching assignment is a project that has been assigned to a course. The scope of an assignment is entirely up to you but it could be a project assignment that a course works on. It could also be some tutorial content built using Guides. We generally recommend that it relates reasonably closely to a lesson or two. But if you prefer and it suits your structure better then you can assign as much or as little content to a Unit as you like.
  
- There are two ways you can assign an assessment to a course.
+ There are two ways you can add an assignment to a course.
  
 ### Assign a project
-The simplest and quickest thing you can do is to assign one of your projects to a course. Once assigned, we refer to it as an assessment but the assessment's source is simply a project.
+The simplest and quickest thing you can do is to assign one of your projects to a course. Once assigned, we refer to it as an assignment but the assignment's source is simply a project.
 
-- With the course selected, click on the Assessment tab at the top of the page. The list will be empty at this point.
+- With the course selected, click on the Assignments tab at the top of the page. The list will be empty at this point.
 - Now click the **+** button in the top left.
 - Select **Empty Module** and create a new module.
 - When created click **Add Assignment** and then select **Project Based**
